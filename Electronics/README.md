@@ -2,7 +2,7 @@
 
 ## LED (Light Emitting Diode)
 
-![LED](/assets/LED.jpg)
+![LED](assets/LED.jpg)
 
 What it Does:
 
