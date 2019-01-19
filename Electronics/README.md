@@ -2,7 +2,7 @@
 
 ## LED (Light Emitting Diode)
 
-![LED][/assets/LED-05B-SR.jpg]
+![LED](/assets/LED.jpg)
 
 What it Does:
 
@@ -24,7 +24,7 @@ Requires a current limiting resistor
 
 ## DIODE
 
-![DIODE][/assets/DIODE.jpg]
+![DIODE](/assets/DIODE.jpg)
 
 What it Does:
 
@@ -44,7 +44,7 @@ Will only work in one direction (current will flow if end with the line is conne
 
 ## RESISTOR
 
-![RESISTOR][/assets/RESISTOR.jpg]
+![RESISTOR](/assets/RESISTOR.jpg)
 
 What it Does:
 
@@ -66,7 +66,7 @@ Easy to grab the wrong value (double check the colors before using)
 
 ## TRANSISTOR
 
-![TRANSISTOR][/assets/TRANSISTOR.jpg]
+![TRANSISTOR](/assets/TRANSISTOR.jpg)
 
 What it Does:
 
@@ -86,7 +86,7 @@ Plugging in the right way round (also a current limiting resistor is often neede
 
 ## SERVO
 
-![SERVO][/assets/SERVO.jpg]
+![SERVO](/assets/SERVO.jpg)
 
 What it Does:
 
@@ -106,7 +106,7 @@ The plug is not polarized so make sure it is plugged in the right way.
 
 ## DC MOTOR
 
-![DCMOTOR][/assets/DCMOTOR.jpg]
+![DCMOTOR](/assets/DCMOTOR.jpg)
 
 What it Does:
 
@@ -126,7 +126,7 @@ Using a transistor or relay that is rated for the size of motor you're using.
 
 ## PIEZO ELEMENT
 
-![PIEZO][/assets/PIEZO.jpg]
+![PIEZO](/assets/PIEZO.jpg)
 
 What it Does:
 
@@ -146,7 +146,7 @@ Difficult to misuse.
 
 ## IC (INTEGRATED CIRCUIT)
 
-![IC][/assets/IC.jpg]
+![IC](/assets/IC.jpg)
 
 What it Does:
 
@@ -166,7 +166,7 @@ Proper orientation (look for marks showing pin 1)
 
 ## PUSHBUTTON
 
-![PUSHBUTTON][/assets/PUSHBUTTON.jpg]
+![PUSHBUTTON](/assets/PUSHBUTTON.jpg)
 
 What it Does:
 
@@ -186,7 +186,7 @@ These are almost square so can be inserted 90 degrees off angle.
 
 ## POTENTIOMETER
 
-![POTENTIOMETER][/assets/POTENTIOMETER.jpg]
+![POTENTIOMETER](/assets/POTENTIOMETER.jpg)
 
 What it Does:
 
@@ -206,7 +206,7 @@ Accidentally buying logarithmic scale.
 
 ## PHOTO RESISTOR
 
-![PHOTO RESISTOR][/assets/PHOTORESISTOR.jpg]
+![PHOTO RESISTOR](/assets/PHOTORESISTOR.jpg)
 
 
 What it Does:
@@ -227,7 +227,7 @@ Remember it needs to be in a voltage divider before it provides a useful input.
 
 ## TMP36 TEMPERATURE SENSOR
 
-![TMP36][/assets/TMP36.jpg]
+![TMP36](/assets/TMP36.jpg)
 
 What it Does:
 
@@ -247,7 +247,7 @@ It looks a bit like the P2N2222AG transistors - check the text printed on the co
 
 ## RELAY
 
-![RELAY][/assets/RELAY.jpg]
+![RELAY](/assets/RELAY.jpg)
 
 What it Does:
 
@@ -263,7 +263,7 @@ Looks like a box.
 
 ## RGB LED
 
-![RGB LED][/assets/RGBLED.jpg]
+![RGB LED](/assets/RGBLED.jpg)
 
 
 What it Does:
@@ -286,7 +286,7 @@ There are two types of RGB LED, Common Anode and Common Cathode. For Common Anod
 
 ## SOLDERLESS BREADBOARD
 
-![BREADBOARD][/assets/BREADBOARD.jpg]
+![BREADBOARD](/assets/BREADBOARD.jpg)
 
 What it Does:
 
@@ -298,7 +298,7 @@ The points in each row are connected horizontally
 
 ## HEADER PINS
 
-![HEADER][/assets/HEADER.jpg]
+![HEADER](/assets/HEADER.jpg)
 
 What it Does:
 
